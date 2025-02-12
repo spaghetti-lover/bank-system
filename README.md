@@ -1,6 +1,6 @@
 # Bank System
 
-The service that we’re going to build is a simple bank. It will provide APIs for the frontend to do following things:
+This is a simple bank website I built to learn about Backend. Hope you enjoy it! It will provide APIs for the frontend to do following things:
 
 1. Create and manage bank accounts, which are composed of owner’s name, balance, and currency.
 2. Record all balance changes to each of the account. So every time some money is added to or subtracted from the account, an account entry record will be created.
